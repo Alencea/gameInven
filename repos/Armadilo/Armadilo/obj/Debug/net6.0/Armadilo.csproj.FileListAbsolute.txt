@@ -1,0 +1,15 @@
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.csproj.AssemblyReference.cache
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.AssemblyInfoInputs.cache
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.AssemblyInfo.cs
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.csproj.CoreCompileInputs.cache
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\bin\Debug\net6.0\Armadilo.exe
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\bin\Debug\net6.0\Armadilo.deps.json
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\bin\Debug\net6.0\Armadilo.runtimeconfig.json
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\bin\Debug\net6.0\Armadilo.dll
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\bin\Debug\net6.0\Armadilo.pdb
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.dll
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\refint\Armadilo.dll
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.pdb
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\Armadilo.genruntimeconfig.cache
+C:\Users\GIlleyi\source\repos\Armadilo\Armadilo\obj\Debug\net6.0\ref\Armadilo.dll
